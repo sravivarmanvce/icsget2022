@@ -95,157 +95,79 @@
     </div>
     <!-- Banner Ends Here -->
 
-    <div class="latest-products">
+ 
+    <div class="best-features">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Latest Products</h2>
-              <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
+              <h2>About Vardhaman</h2>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="#"><img src="assets/images/product_01.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
-                <h6>$25.75</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
-                <ul class="stars">
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                </ul>
-                <span>Reviews (24)</span>
-              </div>
+          <div class="col-md-6">
+            <div class="left-content">
+			 <p align="justify">Vardhaman College of Engineering was established in 1999 with an endeavor to impart high quality Technical Education and innovative research in the fields of Engineering technologies, with emphasis on industry oriented programs for development of students as well as faculty. Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by the All India Council for Technical Education (AICTE), New Delhi. The prime objective of Vardhaman College is to update and modernize the quality of professional education. Its aim is to employ innovative teaching methods which carry an emphasis on fast changing technological trends. This is to integrate classroom learning with actual work experience in the industry concerned or in a related professional field. In the course of continued march towards excellence, VCE was credited with the status of an Autonomous Institution by UGC, Accredited by NAAC with &#39;A++&#39; Grade and five UG programmes (EEE, ECE, CSE, IT, ME, CE) are accredited by NBA (Tier-1). Vardhaman College of Engineering is ranked 141 in Engineering Category as per NIRF 2021.</p>
+			 <a href="https://vardhaman.org/" target="_blank" class="filled-button">Know More</a>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="#"><img src="assets/images/product_02.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
-                <h6>$30.25</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
-                <ul class="stars">
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                </ul>
-                <span>Reviews (21)</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="#"><img src="assets/images/product_03.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
-                <h6>$20.45</h6>
-                <p>Sixteen Clothing is free CSS template provided by TemplateMo.</p>
-                <ul class="stars">
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                </ul>
-                <span>Reviews (36)</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="#"><img src="assets/images/product_04.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
-                <h6>$15.25</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
-                <ul class="stars">
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                </ul>
-                <span>Reviews (48)</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="#"><img src="assets/images/product_05.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
-                <h6>$12.50</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
-                <ul class="stars">
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                </ul>
-                <span>Reviews (16)</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="product-item">
-              <a href="#"><img src="assets/images/product_06.jpg" alt=""></a>
-              <div class="down-content">
-                <a href="#"><h4>Tittle goes here</h4></a>
-                <h6>$22.50</h6>
-                <p>Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.</p>
-                <ul class="stars">
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                  <li><i class="fa fa-star"></i></li>
-                </ul>
-                <span>Reviews (32)</span>
-              </div>
+          <div class="col-md-6">
+            <div class="right-image">
+              <img src="assets/images/Vardhaman_Logo.jpg" alt="">
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="best-features">
+
+  <div class="best-features about-features">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>About Sixteen Clothing</h2>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="left-content">
-              <h4>Looking for the best products?</h4>
-              <p><a rel="nofollow" href="https://templatemo.com/tm-546-sixteen-clothing" target="_parent">This template</a> is free to use for your business websites. However, you have no permission to redistribute the downloadable ZIP file on any template collection website. <a rel="nofollow" href="https://templatemo.com/contact">Contact us</a> for more info.</p>
-              <ul class="featured-list">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur an adipisicing elit</a></li>
-                <li><a href="#">It aquecorporis nulla aspernatur</a></li>
-                <li><a href="#">Corporis, omnis doloremque</a></li>
-                <li><a href="#">Non cum id reprehenderit</a></li>
-              </ul>
-              <a href="about.html" class="filled-button">Read More</a>
+              <h2>About Department of EEE</h2> 
             </div>
           </div>
           <div class="col-md-6">
             <div class="right-image">
-              <img src="assets/images/feature-image.jpg" alt="">
+              <img src="assets/images/slide_02.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="right-content">
+              <h4>Department of Electrical and Electronics Engineering</h4>
+              <p align="justify">The Department of Electrical &amp; Electronics Engineering was established in 2002 offering B.Tech and M.Tech programmes. The Department is headed by Mr. Md. Asif having a vast teaching experience and supported by highly qualified faculty consisting of 4-Professors, 4-Associate Professors and 16- Assistant Professors. The department has very well established laboratories with sophisticated equipment supplementing the academic needs of the students.</br></br></p>			  
             </div>
           </div>
         </div>
       </div>
     </div>
+
+
+   <div class="best-features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>About ICSGET</h2>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="left-content">
+			<p align="justify">Vardhaman College of Engineering was established in 1999 with an endeavor to impart high quality Technical Education and innovative research in the fields of Engineering technologies, with emphasis on industry oriented programs for development of students as well as faculty. Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by the All India Council for Technical Education (AICTE), New Delhi. The prime objective of Vardhaman College is to update and modernize the quality of professional education. Its aim is to employ innovative teaching methods which carry an emphasis on fast changing technological trends.</p> 
+			 <a href="https://vardhaman.org/" target="_blank" class="filled-button">Download Brouchure</a>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="right-image">
+              <img src="assets/images/slide_02.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
 
 
     <div class="call-to-action">
@@ -254,14 +176,28 @@
           <div class="col-md-12">
             <div class="inner-content">
               <div class="row">
-                <div class="col-md-8">
-                  <h4>Creative &amp; Unique <em>Sixteen</em> Products</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
+                <div class="col-md-12">
+                  <h3><em>Important Dates</em></h3>
+				  <table>
+				  <tr>
+					<td>Full Paper submission deadline</td>
+					<td>30th September, 2021</td>
+				  </tr>
+				  <tr>
+					<td>Review notification</td>
+					<td>Last week of October, 2021</td>
+				  </tr>
+				  <tr>
+					<td>Registration, Camera ready, Copyright &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</td>
+					<td>30 th December, 2021</td>
+				  </tr>
+				  <tr>
+					<td>Conference dates</td>
+					<td>10 th - 12 th March, 2022</td>
+				  </tr>
+				</table>
                 </div>
-                <div class="col-md-4">
-                  <a href="#" class="filled-button">Purchase Now</a>
-                </div>
-              </div>
+               </div>
             </div>
           </div>
         </div>
@@ -274,9 +210,9 @@
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
-              <p>Copyright &copy; 2020 Sixteen Clothing Co., Ltd.
+              <p>Copyright &copy; 2022 ICSGET, VCE
             
-            - Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            - Design: <a rel="nofollow noopener" href="https://sravivarman.com" target="_blank">Ravivarman</a></p>
             </div>
           </div>
         </div>

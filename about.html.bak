@@ -47,12 +47,20 @@
                 <a class="nav-link" href="index.html">Home
                   <span class="sr-only">(current)</span>
                 </a>
-              </li> 
-              <li class="nav-item">
-                <a class="nav-link" href="products.html">Our Products</a>
+               <li class="nav-item active">
+                <a class="nav-link" href="about.html">About ICSGET</a>
               </li>
-              <li class="nav-item active">
-                <a class="nav-link" href="about.html">About Us</a>
+			  <li class="nav-item">
+                <a class="nav-link" href="call.html">Call for Papers</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="dates.html">Important Dates</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="speakers.html">Speakers</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="registration.html">Registration</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="contact.html">Contact Us</a>
@@ -69,8 +77,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-content">
-              <h4>about us</h4>
-              <h2>our company</h2>
+              <h3>ICSGET 2022</h3>
+              <h4>International Conference on Smart Systems and Green Eenrgy Technologies</h4>
             </div>
           </div>
         </div>
@@ -94,7 +102,7 @@
           <div class="col-md-6">
             <div class="left-content">
               <h4>International Conference on Smart Systems and Green Energy Technologies</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
             </div>
           </div>
         </div>
