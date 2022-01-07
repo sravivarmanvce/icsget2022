@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>About</title>
+    <title>About - ICSGET 2022 @ VCE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -83,24 +83,42 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our Background</h2>
+              <h2>About ICSGET</h2>
             </div>
           </div>
           <div class="col-md-6">
             <div class="right-image">
-              <img src="assets/images/feature-image.jpg" alt="">
+              <img src="assets/images/slide_02.jpg" alt="">
             </div>
           </div>
           <div class="col-md-6">
             <div class="left-content">
-              <h4>Who we are &amp; What we do?</h4>
+              <h4>International Conference on Smart Systems and Green Energy Technologies</h4>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
-              <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#"><i class="fa fa-behance"></i></a></li>
-              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+ <div class="best-features about-features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>About Vardhaman</h2>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="right-image">
+              <img src="assets/images/Vardhaman_Logo.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="left-content">
+              <h4>Vardhaman College of Engineering</h4>
+              <p>VCE Established in 1999, Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by the All India Council for Technical Education (AICTE), New Delhi. VCE enjoys the geographical advantage as it is well connected by air, rail, and road. The Hyderabad international airport at Shamshabad is just a 30-minute drive, and the college campus is close to Bangalore highway (NH-7) making it accessible to several important centers in and around the city. A ten-minute drive from the college campus reaches out to the outer ring road that connects Shamshabad airport to the city.</p>
+               <a href="https://vardhaman.org/" target="_blank" class="filled-button">Know More</a>
             </div>
           </div>
         </div>
@@ -113,156 +131,19 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Our Team Members</h2>
+              <h2>Tracks</h2>
             </div>
-          </div>
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="thumb-container">
-                <img src="assets/images/team_01.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="down-content">
-                <h4>Johnny William</h4>
-                <span>CO-Founder</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="thumb-container">
-                <img src="assets/images/team_02.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="down-content">
-                <h4>Karry Pitcher</h4>
-                <span>Product Expert</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="thumb-container">
-                <img src="assets/images/team_03.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="down-content">
-                <h4>Michael Soft</h4>
-                <span>Chief Marketing</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="thumb-container">
-                <img src="assets/images/team_04.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="down-content">
-                <h4>Mary Cool</h4>
-                <span>Product Specialist</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="thumb-container">
-                <img src="assets/images/team_05.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="down-content">
-                <h4>George Walker</h4>
-                <span>Product Photographer</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="team-member">
-              <div class="thumb-container">
-                <img src="assets/images/team_06.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="hover-content">
-                    <ul class="social-icons">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="down-content">
-                <h4>Kate Town</h4>
-                <span>General Manager</span>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
-              </div>
-            </div>
-          </div>
+			<p>The ICAITPR-2022, expects invites original, technically sound, quality research papers addressing the problems in the fields of Artificial Intelligence, Machine Intelligence and Pattern Recognition. The main tracks of the conference (But not limited to)</p>
         </div>
       </div>
     </div>
-
-
     <div class="services">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
             <div class="service-item">
-              <div class="icon">
-                <i class="fa fa-gear"></i>
-              </div>
               <div class="down-content">
-                <h4>Product Management</h4>
+                <h4>Track 1</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
                 <a href="#" class="filled-button">Read More</a>
               </div>
@@ -270,11 +151,8 @@
           </div>
           <div class="col-md-4">
             <div class="service-item">
-              <div class="icon">
-                <i class="fa fa-gear"></i>
-              </div>
               <div class="down-content">
-                <h4>Customer Relations</h4>
+                <h4>Track 2</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
                 <a href="#" class="filled-button">Details</a>
               </div>
@@ -282,16 +160,46 @@
           </div>
           <div class="col-md-4">
             <div class="service-item">
-              <div class="icon">
-                <i class="fa fa-gear"></i>
-              </div>
               <div class="down-content">
-                <h4>Global Collection</h4>
+                <h4>Track 3</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
                 <a href="#" class="filled-button">Read More</a>
               </div>
             </div>
           </div>
+		</div>
+		</div>
+		<div class="services">
+		<div class="container">
+		<div class="row">
+		  <div class="col-md-4">
+            <div class="service-item">
+              <div class="down-content">
+                <h4>Track 4</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-4">
+            <div class="service-item">
+              <div class="down-content">
+                <h4>Track 5</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>
+		  <div class="col-md-4">
+            <div class="service-item">
+              <div class="down-content">
+                <h4>Track 6</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>
+		</div>
         </div>
       </div>
     </div>

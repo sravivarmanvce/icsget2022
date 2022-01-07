@@ -37,7 +37,7 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.html"><h2><img src="assets/images/Vardhaman_Logo.jpg" alt="" height="70"><em> ICSGET 2022</em></h2></a>
+          <a class="navbar-brand" href="index.html"><h2><img src="assets/images/Vardhaman_Logo.jpg" alt="" height="70"><em> ICSGET</em></h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -78,9 +78,9 @@
       <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
           <div class="text-content">
+            <h3>ICSGET 2022</h3>
             <h3>International Conference on</h3>
-            <h3>Smart Systems and </h3>
-            <h3>Green Energy Technologies</h3>
+            <h3>Smart Systems and Green Energy Technologies</h3>
           </div>
         </div>
         <div class="banner-item-02">
@@ -90,13 +90,7 @@
             <h3>Green Energy Technologies</h3>
           </div>
         </div>
-        <div class="banner-item-03">
-          <div class="text-content">
-            <h3>International Conference on</h3>
-            <h3>Smart Systems and </h3>
-            <h3>Green Energy Technologies</h3>
-          </div>
-        </div>
+         </div>
       </div>
     </div>
     <!-- Banner Ends Here -->
