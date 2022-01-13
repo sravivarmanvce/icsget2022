@@ -49,7 +49,7 @@
                 </a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="about.html">About ICSGET</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="call.html">Call for Papers</a>
@@ -106,11 +106,15 @@
           </div>
           <div class="col-md-6">
             <div class="left-content">
-			 <p align="justify">Vardhaman College of Engineering was established in 1999 with an endeavor to impart high quality Technical Education and innovative research in the fields of Engineering technologies, with emphasis on industry oriented programs for development of students as well as faculty. Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by the All India Council for Technical Education (AICTE), New Delhi. The prime objective of Vardhaman College is to update and modernize the quality of professional education. Its aim is to employ innovative teaching methods which carry an emphasis on fast changing technological trends. This is to integrate classroom learning with actual work experience in the industry concerned or in a related professional field. In the course of continued march towards excellence, VCE was credited with the status of an Autonomous Institution by UGC, Accredited by NAAC with &#39;A++&#39; Grade and five UG programmes (EEE, ECE, CSE, IT, ME, CE) are accredited by NBA (Tier-1). Vardhaman College of Engineering is ranked 141 in Engineering Category as per NIRF 2021.</p>
+			 <p align="justify">Vardhaman College of Engineering is an autonomous institute located in Hyderabad, in the Indian state of Telangana. The institute offers under-graduate and post-graduate courses in various disciplines of Engineering and Management. VMEG was established in 1999 with an endeavour to impart high quality Technical Education and innovative research in the field of engineering, with emphasis on industry oriented programs for the development of students as well as faculty. Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by All India Council for Technical Education (AICTE), New Delhi.
+			 The prime objective of Vardhaman College is to update and modernize the quality of professional education. Its aim is to employ innovative teaching methods with an emphasis on fast changing technological trends. This is to integrate classroom learning with actual work experience in the industry. In the course of its march towards excellence, VMEG is accredited by NAAC with 'A++' Grade and six UG programmes (EEE, ECE, CSE, IT, ME, CE) are accredited by NBA under Tier-1. Vardhaman College of Engineering is ranked 141 in Engineering Category as per NIRF 2021. VMEG ranks in the top five Engineering colleges in Telangana.
+</p>
 			 <a href="https://vardhaman.org/" target="_blank" class="filled-button">Know More</a>
             </div>
           </div>
           <div class="col-md-6">
+		  </br>
+		  </br>
             <div class="right-image">
               <img src="assets/images/Vardhaman_Logo.jpg" alt="">
             </div>
@@ -129,14 +133,14 @@
             </div>
           </div>
           <div class="col-md-6">
-            <div class="right-image">
+		    <div class="right-image" >
               <img src="assets/images/slide_02.jpg" alt="">
             </div>
           </div>
           <div class="col-md-6">
             <div class="right-content">
-              <h4>Department of Electrical and Electronics Engineering</h4>
-              <p align="justify">The Department of Electrical &amp; Electronics Engineering was established in 2002 offering B.Tech and M.Tech programmes. The Department is headed by Mr. Md. Asif having a vast teaching experience and supported by highly qualified faculty consisting of 4-Professors, 4-Associate Professors and 16- Assistant Professors. The department has very well established laboratories with sophisticated equipment supplementing the academic needs of the students.</br></br></p>			  
+              <!--h4>Department of Electrical and Electronics Engineering</h4-->
+              <p align="justify">The Department of Electrical and Electronics Engineering, VMEG has been playing a vital role in producing Engineers and scientists of highest calibre since its inception in the year 2002. At present, it offers Undergraduate (EEE) and Post Graduate program (PEED) in Electrical Engineering. The aim is to cater to the ever changing needs of technical excellence in all areas of Electrical Engineering such as Power Electronics and Drives, Power & Energy Systems and Power System Engineering. The department has a vibrant atmosphere. It is headed by Mr. Md. Asif (HoD), supported by highly qualified faculty consisting of 4-Professors, 4-Associate Professors and 16-Assistant Professors.</br></br></p>			  
             </div>
           </div>
         </div>
@@ -154,11 +158,14 @@
           </div>
           <div class="col-md-6">
             <div class="left-content">
-			<p align="justify">Vardhaman College of Engineering was established in 1999 with an endeavor to impart high quality Technical Education and innovative research in the fields of Engineering technologies, with emphasis on industry oriented programs for development of students as well as faculty. Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by the All India Council for Technical Education (AICTE), New Delhi. The prime objective of Vardhaman College is to update and modernize the quality of professional education. Its aim is to employ innovative teaching methods which carry an emphasis on fast changing technological trends.</p> 
+			<p align="justify">The 1st International Conference on Smart systems and Green energy Technologies (ICSGET-2022) is conducted by the Department of Electrical and Electronics Engineering, Vardhaman College of Engineering, Hyderabad in association with Springer. The main aim of this international conference is to bring together researchers to facilitate knowledge sharing in emerging technologies and enhance collaboration world over. Along with researchers, the professionals and executives from energy sector, manufacturing industries, electrical power companies are invited to share their ideas and information pertaining to recent thrust areas of smart systems and green energy technologies. The conference will enable the delegates to undertake collaborative research, update their technical knowledge and to stay in tune with recent advances. The technical program consists of keynote lectures, peer-reviewed paper presentations, panel discussions and presentations by industry professionals. It is envisaged that the conference will provide a platform where opportunities for national and international collaboration amongst top universities (from India and abroad) is plentiful. </p> 
 			 <a href="https://vardhaman.org/" target="_blank" class="filled-button">Download Brouchure</a>
             </div>
           </div>
           <div class="col-md-6">
+		  </br>
+		  </br>
+		  </br>
             <div class="right-image">
               <img src="assets/images/slide_02.jpg" alt="">
             </div>
