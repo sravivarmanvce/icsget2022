@@ -103,7 +103,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h4 {
-	color: #008000;
+	color: #000;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -118,7 +118,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h3 {
-	color: #008000;
+	color: #000;
 	font-size: 42px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
@@ -328,7 +328,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 250px 0px;
-	background-image: url(../images/slide_02.jpg);
+	background-image: url(../images/slide_03.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -367,7 +367,7 @@ header .navbar {
 }
 
 .banner .text-content h3 {
-	color: #fff;
+	color: #FF4500;
 	font-size: 42px;
 	text-transform: uppercase;
 	letter-spacing: 5px;

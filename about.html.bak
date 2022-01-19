@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
 
     <meta charset="utf-8">
@@ -110,31 +109,44 @@
       </div>
     </div>
 
- <!--div class="best-features about-features">
+ <div class="best-features about-features">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>About Vardhaman</h2>
+              <h2>Important Dates</h2>
             </div>
+			
+			 <h4>Important Dates</h4>
+              	<table>
+				  <tr>
+					<td>Full Paper submission deadline</td>
+					<td>30th May, 2022</td>
+				  </tr>
+				  <tr>
+					<td>Review notification</td>
+					<td>Last week of June, 2022</td>
+				  </tr>
+				  <tr>
+					<td>Registration, Camera ready, Copyright &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</td>
+					<td>20th July, 2022</td>
+				  </tr>
+				  <tr>
+					<td>Conference dates</td>
+					<td>26th - 27 th August, 2022</td>
+				  </tr>
+				</table>
+			
           </div>
-          <div class="col-md-6">
-            <div class="right-image">
-              <img src="assets/images/Vardhaman_Logo.jpg" alt="">
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="left-content">
-              <h4>Vardhaman College of Engineering</h4>
-              <p>VCE Established in 1999, Vardhaman College of Engineering is affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad, and is approved by the All India Council for Technical Education (AICTE), New Delhi. VCE enjoys the geographical advantage as it is well connected by air, rail, and road. The Hyderabad international airport at Shamshabad is just a 30-minute drive, and the college campus is close to Bangalore highway (NH-7) making it accessible to several important centers in and around the city. A ten-minute drive from the college campus reaches out to the outer ring road that connects Shamshabad airport to the city.</p>
-               <a href="https://vardhaman.org/" target="_blank" class="filled-button">Know More</a>
-            </div>
-          </div>
+ 
+ 
         </div>
       </div>
-    </div-->
+    </div>
 
     
+  	
+	
     <div class="team-members">
       <div class="container">
         <div class="row">
@@ -301,29 +313,89 @@
               <h2>Advisory Committee Members</h2>
             </div>
 			<p align="left">
-			Dr. Hassan Haes Alhelou, Smart Energy Systems Lab., TU.</br>
-			Dr. Suresh Mikkili, NIT Goa</br>
-			Dr. V. Malathi, Anna University Regional Campus, Madurai</br>
-			Dr. Ajay D Vimal Raj, Pondicherry technological University, Puducherry</br>
-			Dr. Padmnaban Sanjeevikumar, Aarhus University, Denmark</br>
-			Dr. Prince Winston D, Kamaraj College of Engineering and Technology, Virudhunagar</br>
-			Dr. Wang Lipo, Nanyang Technological University, Singapore</br>
-			Dr. Anupkumar Panda, NIT Rourkela</br>
-			Dr. B Chitti Babu, IIITD & M Manufacturing Kancheepuram</br>
-			Dr. D N Vishwakarma, IIT (BHU), Varanasi</br>
-			Dr. S Baskar, Thiagarajar Engineering College, Madurai</br>
-			Dr. Umasankar Subramaniyam, Prince Sultan University, Riyadh, Saudi Arabia</br>
-			Dr. Shitharth S,  Kebri Dehar University, Ethiopia</br>
-			Dr. B. Sundaravadivazhagan, University of Technology and Applied Sciences – Al Mussanah, Oman</br>
-			S. Rajasekar, Energy Storage and Integration Wartsila Energy, Singapore</br>
-			Dr. S. Kumaravel, NIT Calicut</br>
-			Dr. Akhthar Kalam, Victoria University, Australia</br>
-			Dr. Ankur Raina, IISER, Bhopal</br>
-			Dr. Hari Priya Vemuganti, NIT Raipur
+			Dr. Padmnaban Sanjeevikumar, Professor Aarhus University, Denmark</br>
+			Dr. Hassan Haes Alhelou, Director, Smart Energy Systems Lab., Ireland</br>
+			Dr. Wang Lipo, Professor, Nanyang Technological University, Singapore</br> 
+			Dr.S N Singh, Vice Chancellor, Madan Mohan Malviya University, India</br>
+			Dr. D N Vishwakarma, Professor, IIT(BHU),Varanasi, India</br>
+			Dr. B Chitti Babu, Professor, IIITD & M Kancheepuram, India</br>
+			Dr. S Umasankar, Professor, Prince Sultan University, Riyadh, Saudi Arabia</br>
+			Dr. Ronghai Qu, Professor, Huazhong University, Wuhan, China</br>
+			Dr. Po-tai Cheng, Professor, National Tsing Hua University, Taiwan</br>
+			Dr.Tobias Geyer, Professor, ABB Medium-Voltage Drives, Switzerland</br> 
+			Dr. Akhtar Kalam, Professor, Victoria University , Melbourne</br>
+			Dr.M  Rezwan Khan, Professor,United International University, Bangladesh</br>
+			Dr. S Rajasekar, Professor and Technical lea, wartsila energy, Singapore</br>
+			Dr. Arunkumar P, Design Engineer ASML, Eindhoven University Netherland</br>
+			Dr. Luis(Nando) Ochoa, Professor of Smart Grids , University of Melbourne</br>
+			Dr.Ramani Kannan, Professor, Universitiy Technology PETRONAS, Malaysia</br>
+			Dr. Wangda Zuo, Professor, University Park, Pennsylvania, United States</br>
+			Dr. Anupkumar Panda, Professor, NIT, Rourkela,India</br>
+			Dr. Özen ÖZER,Professor, Kırklareli University, Kırklareli, Turkey</br>
+			Dr. Ragu Sasikumar, Professor, South Chungcheong, South Korea</br>
+			Dr. Xiao-Zhi Gao, Professor, University of Eastern Finland, Finland</br>
+			Dr. Meshaal Alyahya, Professor, King Abdulaziz Science , Saudi Arabia</br> 
+			Dr. Wei Qiao, Professor , University of NebraskaLincoln, Nebraska, USA </br>
+			Dr. Nicolaos Antonio Cutululis, Professor, Technical University, Denmark</br>
+			Dr. Fernando Ruiz Pérez, Professor ,  Instituto Politécnico Nacional, Mexico </br>
+			Dr. Gnanaseelan Natarajan,Professor, CICATA Altamira IPN, Mexico</br>
+			Dr. Mohan Lal Agarwal, Professor, Indo Gulf Management UAE </br>
+			Dr. Parthiban Pazhamalai,Professor, Jeju national University, South Korea </br>
+			Dr. Sergio Canazza, Professor at University of Padova , Padova </br>
+			Dr. Giacomo Oliveri, Professor, presso Università , Trento, Italy</br>
+			Dr.Ch.Saibabu, Director, JNTU Kakinada, India</br>
+			Dr.Raguram, Professor, JNTU Hyderabad, India</br>
+			Dr.Rajvikram Madurai Elavarasan, Professor, Texas A& M University, USA</br>
+			Dr.G M Shafiullah, Professor, Murdoch University, Australia
+			</p></br></br>
+        </div>
+      </div>
+    </div>
+
+
+
+     <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Program Committee Members</h2>
+            </div>
+			<p align="left">
+			Dr. Rudiren Pillay , Professor ,University of KwaZulu-Natal, South Africa</br>
+			Dr. Zahra Saadatizadeh, Professor, University of Arkansas, United States</br>
+			Dr.Rock Keey Liew, Professor, Environ Chem Let., Penang, Malaysia </br>
+			Dr.Jin-Woo Ahn, Professor of Shenyang University of Technology, China</br>
+			Dr. Chris Williams, Professor, School of Informatics University, Edinburgh</br> 
+			Dr.R.Dhaya Kanthavel , Professor, King Khalid University, KSA</br>
+			Dr. Suresh Mikkili, Associate Professor NIT,Goa,India</br>
+			Dr. Ajay D Vimal Raj, Professor, PTU, Puducherry,India </br>
+			Dr. Prince Winston D, Professor KCET, Virudhunagar, India</br>
+			Dr. S Baskar, Professor, TEC, Madurai, India</br>
+			Dr.V.Malathi, Professor, Anna University, Madurai,India</br>
+			Dr. Shitharth S, Associate Professor, Kebri Dehar University, Ethiopia </br>
+			Dr. Naveen , Managing Director of Hero Electric Vehicles Pvt. Ltd,India</br>
+			Dr. John McDonald, Professor, GE-Grid Solutions,India</br>
+			Dr.S. Kumaravel, Professor, National Institute of Technology, Calicut</br>
+			Dr.Mahajan Sagar Bhaskar, Associate Editor of IET-PE, Saudi Arabia</br>
+			Dr.Kalpana Kannan, FPGA Design Engineer, North Brabant, Netherland </br>
+			Dr. Ankur Gupta,Professor ,IIT, DHANBAD, India</br>
+			Dr. Manish Kumar, Scientist at IFE Kjeller, Norway</br>
+			Dr. Sudhanshu Maurya, Professor, Graphic Era Hill University, India</br>
+			Dr. Fahd Alghasham, Professor,  Qassim University , Saudi Arabia</br>
+			Dr. Chimanbhai A Patel,Professor Science, Lakeland, Florida, United States</br>
+			Dr.Rounak Sanghvi, Robotics Engineer IIM, Tiruchirappalli, India</br>
+			Dr.I Suresh, Professor NIT Warangal,India</br>
+			Dr.NP Selvam, Professor NIT ,Tiruchirappalli, India</br>
+			Dr.Deepak kumar, Professor MNNIT,Allahabad, India</br>
+			Dr.K Sivakumar, Professor IIT-Hyderbad,India</br>
+			Dr.N Manoj Kumar, Professor, University of Hong kong</br>
+			Dr. Arshad Md. Professor, Morgan & Stanley, USA</br>
+			Dr.Suresh Srinivasn,AITS,Thirupathi, India</br>
 			</p></br>
         </div>
       </div>
     </div>
+
 
     <!--div class="happy-clients">
       <div class="container">
