@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>About - ICSGET 2022 @ VCE</title>
+    <title>Programme Schedule - ICSGET 2022 @ VCE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -44,25 +44,25 @@
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
                 <a class="nav-link" href="index.html">Home
-                  <span class="sr-only">(current)</span>
                 </a>
-               <li class="nav-item">
-                <a class="nav-link" href="about.html">About ICSGET</a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="call.html">Call for Paper</a>
               </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="call.html">Call for Papers</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="schedule.html">Programme Schedule
+				<span class="sr-only">(current)</span>
+				</a>
               </li>
 			  <li class="nav-item active">
-                <a class="nav-link" href="dates.html">Important Dates</a>
-              </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="speakers.html">Speakers</a>
+                <a class="nav-link" href="committees.html">Committees
+				</a>
               </li>
 			  <li class="nav-item">
                 <a class="nav-link" href="registration.html">Registration</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.html">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -102,7 +102,7 @@
           <div class="col-md-12">
             <div class="left-content">
               <!--h4>Objective of the Conference</h4-->
-              				  <table>
+              	<table>
 				  <tr>
 					<td>Full Paper submission deadline</td>
 					<td>30th May, 2022</td>

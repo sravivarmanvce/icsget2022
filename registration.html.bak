@@ -44,25 +44,24 @@
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
                 <a class="nav-link" href="index.html">Home
-                  <span class="sr-only">(current)</span>
                 </a>
-               <li class="nav-item">
-                <a class="nav-link" href="about.html">About ICSGET</a>
-              </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="call.html">Call for Papers</a>
-              </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="dates.html">Important Dates</a>
-              </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="speakers.html">Speakers</a>
-              </li>
-			  <li class="nav-item active">
-                <a class="nav-link" href="registration.html">Registration</a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="call.html">Call for Paper</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="schedule.html">Programme Schedule</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="committees.html">Committees</a>
+              </li>
+			  <li class="nav-item active">
+                <a class="nav-link" href="registration.html">Registration
+                <span class="sr-only">(current)</span>
+				</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -176,7 +175,7 @@
           </div-->
 		  
 		  
-          <div class="col-md-6">
+          <!--div class="col-md-6">
             <div class="service-item">
               <div class="down-content">
                 <h4>Track 2: Green Energy Systems</h4>
@@ -235,7 +234,7 @@
         </div>
       </div>
     </div>
-	</div>
+	</div-->
 
 
    <div class="team-members">

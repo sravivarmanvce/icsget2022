@@ -91,7 +91,7 @@ a.filled-button:hover {
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/about-heading.jpg);
 }
 
 .page-heading {
@@ -103,7 +103,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h4 {
-	color: #000;
+	color: #f50;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -367,7 +367,7 @@ header .navbar {
 }
 
 .banner .text-content h3 {
-	color: #FF4500;
+	color: #fff;
 	font-size: 42px;
 	text-transform: uppercase;
 	letter-spacing: 5px;

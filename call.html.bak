@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>About - ICSGET 2022 @ VCE</title>
+    <title>Call for Paper - ICSGET 2022 @ VCE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -43,26 +43,24 @@
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home
-                  <span class="sr-only">(current)</span>
-                </a>
-               <li class="nav-item">
-                <a class="nav-link" href="about.html">About ICSGET</a>
+                <a class="nav-link" href="index.html">Home</a>
+              </li> 
+              <li class="nav-item active">
+                <a class="nav-link" href="call.html">Call for Paper
+				<span class="sr-only">(current)</span>
+				</a>
               </li>
-			  <li class="nav-item active">
-                <a class="nav-link" href="call.html">Call for Papers</a>
-              </li>
-			  <li class="nav-item">
-                <a class="nav-link" href="dates.html">Important Dates</a>
+              <li class="nav-item">
+                <a class="nav-link" href="schedule.html">Programme Schedule</a>
               </li>
 			  <li class="nav-item">
-                <a class="nav-link" href="speakers.html">Speakers</a>
+                <a class="nav-link" href="committees.html">Committees</a>
               </li>
 			  <li class="nav-item">
                 <a class="nav-link" href="registration.html">Registration</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.html">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -101,26 +99,14 @@
           </div-->
           <div class="col-md-12">
             <div class="left-content">
-              <h4>Regular Papers</h4>
-              Prospective authors are invited to submit full-length papers electronically through the conference website. Papers (6 pages) should be concise but contain sufficient details and references to allow critical review. Papers will be reviewed by at least two referees for technical merit and content.
+			<p align="justify">
+                INTERNATIONAL CONFERENCE ON SMART SYSTEMS AND GREEN ENERGY TECHNOLOGIES (ICSGET-2022) invites original work, technically sound, quality research papers addressing the problems in the field of Smart Systems and Green Energy Technologies. The major themes are identified (but not limited to) and listed below under the Conference Tracks.</p>
             </div>
           </div>
         </div>
       </div>
     </div>
-   	
-	
-    <div class="team-members">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Tracks</h2>
-            </div>
-			<p>The ICSGET-2022, expects invites original, technically sound, quality research papers addressing the problems in the fields of Smart Systems and Green Energy Technologies. The main tracks of the conference (But not limited to)</p></br>
-        </div>
-      </div>
-    </div>
+    
     <div class="services">
       <div class="container">
         <div class="row">
@@ -206,16 +192,13 @@
 
 
    <div class="team-members">
-   
 	<div class="container">
 		<div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Author Guidelines</h2>
+              <!--h2>Author Guidelines</h2-->
             </div>
-			<p align="left">The final paper must be a .doc and .pdf files (both) in IEEE conference template, double column format.
-			The length of the paper should not exceed more than 6 pages. Extra charges will be there for additional papers.
-			</p></br>
+			<p align="left">Papers undergo a double-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered papers will be published in a Scopus Indexed Series of Springer Nature and submitted for indexing in ISI Proceedings, EI-Compendex, Google Scholar and SpringerLink.</p></br>
 			<a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank">MS Word template</a></br>
 			
 			<a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank">LATEX template</a></br>
@@ -227,7 +210,7 @@
           </div>
 		</div>
     </div>
-
+   </div>
 </br></br>
 
 	<div class="container">
@@ -265,7 +248,7 @@
 
 
 
-     <div class="container">
+     <!--div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
@@ -305,7 +288,7 @@
 			</p></br>
         </div>
       </div>
-    </div>
+    </div-->
 
 
     <!--div class="happy-clients">
