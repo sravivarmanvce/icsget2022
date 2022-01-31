@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Contact Us- ICSGET 2022 @ VCE</title>
+    <title>Contact Us - ICSGET 2022 @ VCE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -56,11 +56,11 @@ https://templatemo.com/tm-546-sixteen-clothing
               <li class="nav-item">
                 <a class="nav-link" href="call.html">Call for Paper</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="schedule.html">Programme Schedule</a>
+             <li class="nav-item">
+                <a class="nav-link" href="committees.html">Committees</a>
               </li>
 			  <li class="nav-item">
-                <a class="nav-link" href="committees.html">Committees</a>
+                <a class="nav-link" href="schedule.html">Programme Schedule</a>
               </li>
 			  <li class="nav-item">
                 <a class="nav-link" href="registration.html">Registration</a>

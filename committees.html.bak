@@ -49,13 +49,13 @@
               <li class="nav-item">
                 <a class="nav-link" href="call.html">Call for Paper</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="schedule.html">Programme Schedule
-				</a>
-              </li>
-			  <li class="nav-item active">
+              <li class="nav-item active">
                 <a class="nav-link" href="committees.html">Committees
 				<span class="sr-only">(current)</span>
+				</a>
+              </li>
+			  <li class="nav-item">
+                <a class="nav-link" href="submission.html">Submission
 				</a>
               </li>
 			  <li class="nav-item">
@@ -168,7 +168,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Programme Chair</h2>
+              <h2>General Chair</h2>
             </div>
 			<p align="left">
 			</p>
@@ -180,7 +180,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Programme Co-Chair</h2>
+              <h2>Programme Chair</h2>
             </div>
 			<p align="left">
 			</p>
@@ -192,7 +192,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>General Chair</h2>
+              <h2>Publicity Chair</h2>
             </div>
 			<p align="left">
 			</p>
@@ -200,7 +200,7 @@
 		</div>
 	</div>
 	
-		<div class="container">
+	<!--div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
@@ -210,7 +210,7 @@
 			</p>
 		  </div>
 		</div>
-	</div>
+	</div-->
 			
    
       <div class="container">
@@ -220,41 +220,16 @@
               <h2>Advisory Committee</h2>
             </div>
 			<p align="left">
-			Dr. Padmnaban Sanjeevikumar, Professor Aarhus University, Denmark
-			Dr. Hassan Haes Alhelou, Director, Smart Energy Systems Lab., Ireland
-			Dr. Wang Lipo, Professor, Nanyang Technological University, Singapore
-			Dr.S N Singh, Vice Chancellor, Madan Mohan Malviya University, India
-			Dr. D N Vishwakarma, Professor, IIT(BHU),Varanasi, India
-			Dr. B Chitti Babu, Professor, IIITD & M Kancheepuram, India
-			Dr. S Umasankar, Professor, Prince Sultan University, Riyadh, Saudi Arabia
-			Dr. Ronghai Qu, Professor, Huazhong University, Wuhan, China
-			Dr. Po-tai Cheng, Professor, National Tsing Hua University, Taiwan
-			Dr.Tobias Geyer, Professor, ABB Medium-Voltage Drives, Switzerland
-			Dr. Akhtar Kalam, Professor, Victoria University , Melbourne
-			Dr.M Rezwan Khan, Professor,United International University, Bangladesh
-			Dr. S Rajasekar, Professor and Technical lea, wartsila energy, Singapore
-			Dr. Arunkumar P, Design Engineer ASML, Eindhoven University Netherland
-			Dr. Luis(Nando) Ochoa, Professor of Smart Grids , University of Melbourne
-			Dr.Ramani Kannan, Professor, Universitiy Technology PETRONAS, Malaysia
-			Dr. Wangda Zuo, Professor, University Park, Pennsylvania, United States
-			Dr. Anupkumar Panda, Professor, NIT, Rourkela,India
-			Dr. Özen ÖZER,Professor, Kırklareli University, Kırklareli, Turkey
-			Dr. Ragu Sasikumar, Professor, South Chungcheong, South Korea
-			Dr. Xiao-Zhi Gao, Professor, University of Eastern Finland, Finland
-			Dr. Meshaal Alyahya, Professor, King Abdulaziz Science , Saudi Arabia
-			Dr. Wei Qiao, Professor , University of NebraskaLincoln, Nebraska, USA
-			Dr. Nicolaos Antonio Cutululis, Professor, Technical University, Denmark
-			Dr. Fernando Ruiz Pérez, Professor , Instituto Politécnico Nacional, Mexico
-			Dr. Gnanaseelan Natarajan,Professor, CICATA Altamira IPN, Mexico
-			Dr. Mohan Lal Agarwal, Professor, Indo Gulf Management UAE
-			Dr. Parthiban Pazhamalai,Professor, Jeju national University, South Korea
-			Dr. Sergio Canazza, Professor at University of Padova , Padova
-			Dr. Giacomo Oliveri, Professor, presso Università , Trento, Italy
-			Dr.Ch.Saibabu, Director, JNTU Kakinada, India
-			Dr.Raguram, Professor, JNTU Hyderabad, India
-			Dr.Rajvikram Madurai Elavarasan, Professor, Texas A& M University, USA
-			Dr.G M Shafiullah, Professor, Murdoch University, Australia
-
+			Dr. Wang Lipo, Professor, Nanyang Technological University, Singapore</br>
+			Dr.S N Singh, Vice Chancellor, Madan Mohan Malviya University, India</br>
+			Dr. B Chitti Babu, Professor, IIITD & M Kancheepuram, India</br>
+			Dr. S Umasankar, Professor, Prince Sultan University, Riyadh, Saudi Arabia</br>
+			Dr. Ronghai Qu, Professor, Huazhong University, Wuhan, China</br>
+			Dr. Po-tai Cheng, Professor, National Tsing Hua University, Taiwan</br>
+			Dr.Tobias Geyer, Professor, ABB Medium-Voltage Drives, Switzerland</br>
+			Dr. Akhtar Kalam, Professor, Victoria University , Melbourne</br>
+			Dr. Arunkumar P, Design Engineer ASML, Eindhoven University Netherland</br>
+			Dr. Luis(Nando) Ochoa, Professor of Smart Grids , University of Melbourne</br>
 			</p></br></br>
         </div>
       </div>
@@ -266,40 +241,63 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Program Committee</h2>
+              <h2>Technical Program Committee</h2>
             </div>
 			<p align="left">
-			Dr. Rudiren Pillay , Professor ,University of KwaZulu-Natal, South Africa
-			Dr. Zahra Saadatizadeh, Professor, University of Arkansas, United States
-			Dr.Rock Keey Liew, Professor, Environ Chem Let., Penang, Malaysia
-			Dr.Jin-Woo Ahn, Professor of Shenyang University of Technology, China
-			Dr. Chris Williams, Professor, School of Informatics University, Edinburgh
-			Dr.R.Dhaya Kanthavel , Professor, King Khalid University, KSA
-			Dr. Suresh Mikkili, Associate Professor NIT,Goa,India
-			Dr. Ajay D Vimal Raj, Professor, PTU, Puducherry,India
-			Dr. Prince Winston D, Professor KCET, Virudhunagar, India
-			Dr. S Baskar, Professor, TEC, Madurai, India
-			Dr.V.Malathi, Professor, Anna University, Madurai,India
-			Dr. Shitharth S, Associate Professor, Kebri Dehar University, Ethiopia
-			Dr. Naveen , Managing Director of Hero Electric Vehicles Pvt. Ltd,India
-			Dr. John McDonald, Professor, GE-Grid Solutions,India
-			Dr.S. Kumaravel, Professor, National Institute of Technology, Calicut
-			Dr.Mahajan Sagar Bhaskar, Associate Editor of IET-PE, Saudi Arabia
-			Dr.Kalpana Kannan, FPGA Design Engineer, North Brabant, Netherland
-			Dr. Ankur Gupta,Professor ,IIT, DHANBAD, India
-			Dr. Manish Kumar, Scientist at IFE Kjeller, Norway
-			Dr. Sudhanshu Maurya, Professor, Graphic Era Hill University, India
-			Dr. Fahd Alghasham, Professor, Qassim University , Saudi Arabia
-			Dr. Chimanbhai A Patel,Professor Science, Lakeland, Florida, United States
-			Dr.Rounak Sanghvi, Robotics Engineer IIM, Tiruchirappalli, India
-			Dr.I Suresh, Professor NIT Warangal,India
-			Dr.NP Selvam, Professor NIT ,Tiruchirappalli, India
-			Dr.Deepak kumar, Professor MNNIT,Allahabad, India
-			Dr.K Sivakumar, Professor IIT-Hyderbad,India
-			Dr.N Manoj Kumar, Professor, University of Hong kong
-			Dr. Arshad Md. Professor, Morgan & Stanley, USA
-			Dr.Suresh Srinivasn,AITS,Thirupathi, India
-
+			Dr. Padmnaban Sanjeevikumar, Professor Aarhus University, Denmark</br>
+			Dr.M Rezwan Khan, Professor,United International University, Bangladesh</br>
+			Dr. S Rajasekar, Professor and Technical lea, wartsila energy, Singapore</br>
+			Dr. Hassan Haes Alhelou, Director, Smart Energy Systems Lab., Ireland</br>
+			Dr. Rudiren Pillay , Professor ,University of KwaZulu-Natal, South Africa</br>
+			Dr. Zahra Saadatizadeh, Professor, University of Arkansas, United States</br>
+			Dr.Rock Keey Liew, Professor, Environ Chem Let., Penang, Malaysia</br>
+			Dr. D N Vishwakarma, Professor, IIT(BHU),Varanasi, India</br>
+			Dr.Ramani Kannan, Professor, Universitiy Technology PETRONAS, Malaysia</br>
+			Dr. Wangda Zuo, Professor, University Park, Pennsylvania, United States</br>
+			Dr. Anupkumar Panda, Professor, NIT, Rourkela,India</br>
+			Dr. Özen ÖZER,Professor, Kırklareli University, Kırklareli, Turkey</br>
+			Dr. Ragu Sasikumar, Professor, South Chungcheong, South Korea</br>
+			Dr. Xiao-Zhi Gao, Professor, University of Eastern Finland, Finland</br>
+			Dr. Meshaal Alyahya, Professor, King Abdulaziz Science , Saudi Arabia</br>
+			Dr. Wei Qiao, Professor , University of NebraskaLincoln, Nebraska, USA</br>
+			Dr. Nicolaos Antonio Cutululis, Professor, Technical University, Denmark</br>
+			Dr. Fernando Ruiz Pérez, Professor , Instituto Politécnico Nacional, Mexico</br>
+			Dr. Gnanaseelan Natarajan,Professor, CICATA Altamira IPN, Mexico</br>
+			Dr. Mohan Lal Agarwal, Professor, Indo Gulf Management UAE</br>
+			Dr. Parthiban Pazhamalai,Professor, Jeju national University, South Korea</br>
+			Dr. Sergio Canazza, Professor at University of Padova , Padova</br>
+			Dr. Giacomo Oliveri, Professor, presso Università , Trento, Italy</br>
+			Dr.Ch.Saibabu, Director, JNTU Kakinada, India</br>
+			Dr.Raguram, Professor, JNTU Hyderabad, India</br>
+			Dr.Rajvikram Madurai Elavarasan, Professor, Texas A& M University, USA</br>
+			Dr.G M Shafiullah, Professor, Murdoch University, Australia</br>
+			Dr.Jin-Woo Ahn, Professor of Shenyang University of Technology, China</br>
+			Dr. Chris Williams, Professor, School of Informatics University, Edinburgh</br>
+			Dr.R.Dhaya Kanthavel , Professor, King Khalid University, KSA</br>
+			Dr. Suresh Mikkili, Associate Professor NIT,Goa,India</br>
+			Dr. Ajay D Vimal Raj, Professor, PTU, Puducherry,India</br>
+			Dr. Prince Winston D, Professor KCET, Virudhunagar, India</br>
+			Dr. S Baskar, Professor, TEC, Madurai, India</br>
+			Dr.V.Malathi, Professor, Anna University, Madurai,India</br>
+			Dr. Shitharth S, Associate Professor, Kebri Dehar University, Ethiopia</br>
+			Dr. Naveen , Managing Director of Hero Electric Vehicles Pvt. Ltd,India</br>
+			Dr. John McDonald, Professor, GE-Grid Solutions,India</br>
+			Dr.S. Kumaravel, Professor, National Institute of Technology, Calicut</br>
+			Dr.Mahajan Sagar Bhaskar, Associate Editor of IET-PE, Saudi Arabia</br>
+			Dr.Kalpana Kannan, FPGA Design Engineer, North Brabant, Netherland</br>
+			Dr. Ankur Gupta,Professor ,IIT, DHANBAD, India</br>
+			Dr. Manish Kumar, Scientist at IFE Kjeller, Norway</br>
+			Dr. Sudhanshu Maurya, Professor, Graphic Era Hill University, India</br>
+			Dr. Fahd Alghasham, Professor, Qassim University , Saudi Arabia</br>
+			Dr. Chimanbhai A Patel,Professor Science, Lakeland, Florida, United States</br>
+			Dr.Rounak Sanghvi, Robotics Engineer IIM, Tiruchirappalli, India</br>
+			Dr.I Suresh, Professor NIT Warangal,India</br>
+			Dr.NP Selvam, Professor NIT ,Tiruchirappalli, India</br>
+			Dr.Deepak kumar, Professor MNNIT,Allahabad, India</br>
+			Dr.K Sivakumar, Professor IIT-Hyderbad,India</br>
+			Dr.N Manoj Kumar, Professor, University of Hong kong</br>
+			Dr. Arshad Md. Professor, Morgan & Stanley, USA</br>
+			Dr.Suresh Srinivasn,AITS,Thirupathi, India</br>
 			</p></br>
         </div>
       </div>

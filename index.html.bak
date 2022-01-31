@@ -50,11 +50,11 @@
               <li class="nav-item">
                 <a class="nav-link" href="call.html">Call for Paper</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="schedule.html">Programme Schedule</a>
+             <li class="nav-item">
+                <a class="nav-link" href="committees.html">Committees</a>
               </li>
 			  <li class="nav-item">
-                <a class="nav-link" href="committees.html">Committees</a>
+                <a class="nav-link" href="schedule.html">Programme Schedule</a>
               </li>
 			  <li class="nav-item">
                 <a class="nav-link" href="registration.html">Registration</a>
@@ -74,22 +74,24 @@
       <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
           <div class="text-content">
-            <h3>ICSGET 2022</h3>
-            <h3>International Conference on</h3>
-            <h3>Smart Systems and Green Energy Technologies</h3>
-			<h3>24th & 25th August 2022</h3>
-			<h3>Vardhaman College of Engineering (India)</h3>
+            <h4>International Conference on</h4>
+            <h4>Smart Systems and Green Energy Technologies</h4>
           </div>
         </div>
        </div>
+			<h4>24th & 25th August 2022</h4></br>
+			<h4>Vardhaman College of Engineering (India)</h4>
       </div>
-    </div>
     <!-- Banner Ends Here -->
-    <div class="best-features">
+	<div class="best-features">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="section-heading">
+			<marquee width="100%" direction="left" height="100px">
+			<p style="color: #f00;">
+			Scrooooooooooooooooooooooooooooooooooooooooooooooooollllllllllllllllllllllllllllllllllll</p>
+			</marquee>
+			  <div class="section-heading">
               <h2>ICSGET 2022</h2>
             </div>
           </div>
@@ -97,20 +99,6 @@
             <div class="left-content">
 			 <p align="justify">
 			 The 1st International Conference on Smart systems and Green energy Technologies (ICSGET-2022) is conducted by the Department of Electrical and Electronics Engineering, Vardhaman College of Engineering, Hyderabad in association with Springer. The main aim of this international conference is to bring together researchers to facilitate knowledge sharing in emerging technologies and enhance collaboration world over. Along with researchers, the professionals and executives from energy sector, manufacturing industries, electrical power companies are invited to share their ideas and information pertaining to recent thrust areas of smart systems and green energy technologies. The conference will enable the delegates to undertake collaborative research, update their technical knowledge and to stay in tune with recent advances. The technical program consists of keynote lectures, peer-reviewed paper presentations, panel discussions and presentations by industry professionals. It is envisaged that the conference will provide a platform where opportunities for national and international collaboration amongst top universities (from India and abroad) is plentiful.
-			 </p>
-            </div>
-          </div>
-          </div>
-        </div>
-      </div>
-	 
-	     <div class="best-features">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="left-content">
-			 <p align="justify">
-
 			 </p>
             </div>
           </div>
@@ -165,6 +153,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="inner-content">
+			<img src="assets/images/hyderabad.jpg" alt="Hyderabad">
               <p>Copyright &copy; 2022 ICSGET, VCE
             
             - Design: <a rel="nofollow noopener" href="https://sravivarman.com" target="_blank">SRV</a></p>
