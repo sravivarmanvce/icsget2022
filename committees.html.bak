@@ -55,8 +55,7 @@
 				</a>
               </li>
 			  <li class="nav-item">
-                <a class="nav-link" href="submission.html">Submission
-				</a>
+                <a class="nav-link" href="submission.html">Submission</a>
               </li>
 			  <li class="nav-item">
                 <a class="nav-link" href="registration.html">Registration</a>
@@ -211,33 +210,30 @@
 		  </div>
 		</div>
 	</div-->
-			
-   
-      <div class="container">
+
+
+  <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Advisory Committee</h2>
+              <h2>Steering Committee</h2>
             </div>
 			<p align="left">
-			Dr. Wang Lipo, Professor, Nanyang Technological University, Singapore</br>
-			Dr.S N Singh, Vice Chancellor, Madan Mohan Malviya University, India</br>
-			Dr. B Chitti Babu, Professor, IIITD & M Kancheepuram, India</br>
-			Dr. S Umasankar, Professor, Prince Sultan University, Riyadh, Saudi Arabia</br>
-			Dr. Ronghai Qu, Professor, Huazhong University, Wuhan, China</br>
-			Dr. Po-tai Cheng, Professor, National Tsing Hua University, Taiwan</br>
-			Dr.Tobias Geyer, Professor, ABB Medium-Voltage Drives, Switzerland</br>
-			Dr. Akhtar Kalam, Professor, Victoria University , Melbourne</br>
-			Dr. Arunkumar P, Design Engineer ASML, Eindhoven University Netherland</br>
-			Dr. Luis(Nando) Ochoa, Professor of Smart Grids , University of Melbourne</br>
-			</p></br></br>
-        </div>
+			Dr.Ch.Saibabu, Director, JNTU Kakinada, India</br>
+			Dr.Raguram, Professor, JNTU Hyderabad, India</br>
+			Dr. Ajay D Vimal Raj, Professor, PTU, Puducherry,India</br>
+			Dr. Prince Winston D, Professor KCET, Virudhunagar, India</br>
+			Dr. S Baskar, Professor, TEC, Madurai, India</br>
+			Dr.V.Malathi, Professor, Anna University, Madurai,India</br>
+			Dr. John McDonald, Professor, GE-Grid Solutions,India</br>
+			Dr. Sudhanshu Maurya, Professor, Graphic Era Hill University, India</br>
+			Dr.Suresh Srinivasn,AITS,Thirupathi, India</br>
+		</div>
       </div>
     </div>
-
-
-
-     <div class="container">
+			
+   
+      <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
@@ -267,27 +263,19 @@
 			Dr. Parthiban Pazhamalai,Professor, Jeju national University, South Korea</br>
 			Dr. Sergio Canazza, Professor at University of Padova , Padova</br>
 			Dr. Giacomo Oliveri, Professor, presso Università , Trento, Italy</br>
-			Dr.Ch.Saibabu, Director, JNTU Kakinada, India</br>
-			Dr.Raguram, Professor, JNTU Hyderabad, India</br>
 			Dr.Rajvikram Madurai Elavarasan, Professor, Texas A& M University, USA</br>
 			Dr.G M Shafiullah, Professor, Murdoch University, Australia</br>
 			Dr.Jin-Woo Ahn, Professor of Shenyang University of Technology, China</br>
 			Dr. Chris Williams, Professor, School of Informatics University, Edinburgh</br>
 			Dr.R.Dhaya Kanthavel , Professor, King Khalid University, KSA</br>
 			Dr. Suresh Mikkili, Associate Professor NIT,Goa,India</br>
-			Dr. Ajay D Vimal Raj, Professor, PTU, Puducherry,India</br>
-			Dr. Prince Winston D, Professor KCET, Virudhunagar, India</br>
-			Dr. S Baskar, Professor, TEC, Madurai, India</br>
-			Dr.V.Malathi, Professor, Anna University, Madurai,India</br>
 			Dr. Shitharth S, Associate Professor, Kebri Dehar University, Ethiopia</br>
 			Dr. Naveen , Managing Director of Hero Electric Vehicles Pvt. Ltd,India</br>
-			Dr. John McDonald, Professor, GE-Grid Solutions,India</br>
 			Dr.S. Kumaravel, Professor, National Institute of Technology, Calicut</br>
 			Dr.Mahajan Sagar Bhaskar, Associate Editor of IET-PE, Saudi Arabia</br>
 			Dr.Kalpana Kannan, FPGA Design Engineer, North Brabant, Netherland</br>
 			Dr. Ankur Gupta,Professor ,IIT, DHANBAD, India</br>
 			Dr. Manish Kumar, Scientist at IFE Kjeller, Norway</br>
-			Dr. Sudhanshu Maurya, Professor, Graphic Era Hill University, India</br>
 			Dr. Fahd Alghasham, Professor, Qassim University , Saudi Arabia</br>
 			Dr. Chimanbhai A Patel,Professor Science, Lakeland, Florida, United States</br>
 			Dr.Rounak Sanghvi, Robotics Engineer IIM, Tiruchirappalli, India</br>
@@ -296,18 +284,42 @@
 			Dr.Deepak kumar, Professor MNNIT,Allahabad, India</br>
 			Dr.K Sivakumar, Professor IIT-Hyderbad,India</br>
 			Dr.N Manoj Kumar, Professor, University of Hong kong</br>
-			Dr. Arshad Md. Professor, Morgan & Stanley, USA</br>
-			Dr.Suresh Srinivasn,AITS,Thirupathi, India</br>
+			Dr. Arshad Md. Professor, Morgan & Stanley, USA</br>			
 			</p></br>
         </div>
       </div>
     </div>
 
+
+     <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Advisory Committee</h2>
+            </div>
+			<p align="left">
+			Dr. Wang Lipo, Professor, Nanyang Technological University, Singapore</br>
+			Dr.S N Singh, Vice Chancellor, Madan Mohan Malviya University, India</br>
+			Dr. B Chitti Babu, Professor, IIITD & M Kancheepuram, India</br>
+			Dr. S Umasankar, Professor, Prince Sultan University, Riyadh, Saudi Arabia</br>
+			Dr. Ronghai Qu, Professor, Huazhong University, Wuhan, China</br>
+			Dr. Po-tai Cheng, Professor, National Tsing Hua University, Taiwan</br>
+			Dr.Tobias Geyer, Professor, ABB Medium-Voltage Drives, Switzerland</br>
+			Dr. Akhtar Kalam, Professor, Victoria University , Melbourne</br>
+			Dr. Arunkumar P, Design Engineer ASML, Eindhoven University Netherland</br>
+			Dr. Luis(Nando) Ochoa, Professor of Smart Grids , University of Melbourne</br>
+			</p></br></br>
+        </div>
+      </div>
+    </div>
+
+
+
 		<div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Organizing Committee</h2>
+              <h2>Publicity Committee</h2>
             </div>
 			<p align="left">
 			</p>
@@ -320,7 +332,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Conference Proceedings Committee</h2>
+              <h2>Organizing Committee</h2>
             </div>
 			<p align="left">
 			</p>
