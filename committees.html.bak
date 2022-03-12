@@ -76,7 +76,7 @@
           <div class="col-md-12">
             <div class="text-content">
               <h3>ICSGET 2022</h3>
-              <h4>International Conference on Smart Systems and Green Eenrgy Technologies</h4>
+              <h4>International Conference on Smart Systems and Green Energy Technologies</h4>
             </div>
           </div>
         </div>
@@ -170,7 +170,10 @@
               <h2>General Chair</h2>
             </div>
 			<p align="left">
-			</p>
+			Sanjeev Kumar Padmanabhan (Aarhus University, Denmark)</br>
+			Mahdi Fathi (University of North Texas, USA)</br>
+			M. A. Jabbar (Vardhaman College of Engineering, India)</br>
+			</p></br></br>
 		  </div>
 		</div>
 	</div>
@@ -182,7 +185,12 @@
               <h2>Programme Chair</h2>
             </div>
 			<p align="left">
-			</p>
+			MD Asif (Vardhaman College of Engineering, India)</br>
+			Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)</br>
+			Abdelkrim Haqiq (Hassan 1st University, FST-Settat, Morocco)</br>
+			Ayush Goyal (Texas A & M Ville University KingsVilley, Texas)</br>
+			Celestine Iwendi (University of Bolton, United Kingdom)</br>
+			</p></br></br>
 		  </div>
 		</div>
 	</div>
@@ -191,48 +199,54 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Publicity Chair</h2>
+              <h2>Steering Committee</h2>
             </div>
 			<p align="left">
-			</p>
+			M. A. Jabbar (Vardhaman College of Engineering, India)</br>
+			Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)</br>
+			Celia Shahnaz (Bangladesh University of Engineering & Technology, Bangladesh)</br>
+			MD Asif (Vardhaman College of Engineering, India)</br>
+			Puneet Kumar Mishra (U R Rao Satellite Centre, India)</br>
+			San Murugesan (Western Sydney University, Australia)</br>
+			</p></br></br>
 		  </div>
 		</div>
 	</div>
 	
-	<!--div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-heading">
-              <h2>Editorial Board</h2>
-            </div>
-			<p align="left">
-			</p>
-		  </div>
-		</div>
-	</div-->
-
-
+	
   <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Steering Committee</h2>
+              <h2>Publication Chair</h2>
             </div>
 			<p align="left">
-			Dr.Ch.Saibabu, Director, JNTU Kakinada, India</br>
-			Dr.Raguram, Professor, JNTU Hyderabad, India</br>
-			Dr. Ajay D Vimal Raj, Professor, PTU, Puducherry,India</br>
-			Dr. Prince Winston D, Professor KCET, Virudhunagar, India</br>
-			Dr. S Baskar, Professor, TEC, Madurai, India</br>
-			Dr.V.Malathi, Professor, Anna University, Madurai,India</br>
-			Dr. John McDonald, Professor, GE-Grid Solutions,India</br>
-			Dr. Sudhanshu Maurya, Professor, Graphic Era Hill University, India</br>
-			Dr.Suresh Srinivasn,AITS,Thirupathi, India</br>
-			</br></br></br>
+			Shishir Kumar Shandilya (VIT Bhopal University, India)</br>
+			Onur Doğan (Izmir Bakircay University, Turkey)</br>
+			Mariya Ouaissa (ENSAM-Moulay Ismail University, Meknes, Morocco)</br>
+			Hena Iqbal (Al Dar University College, UAE)</br>
+			</p></br></br>
 		</div>
       </div>
     </div>
 			
+
+	<div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Publicity Chair</h2>
+            </div>
+			<p align="left">
+			Shankru Guggari (Query Data Systems, India)</br>
+			Sailesh Iyer (Rai University, India) </br>
+			Udit Chawla (University of Engineering & Management, India)</br>
+			Parameshachari B D, (GSSS Institute of Engg & Technology for Women, India)</br>
+			Fariba Goodarzian (Universidad de Sevilla, Spain)</br>
+			</p></br></br>
+		  </div>
+		</div>
+	</div>
    
       <div class="container">
         <div class="row">
@@ -241,52 +255,65 @@
               <h2>Technical Program Committee</h2>
             </div>
 			<p align="left">
-			Dr. Padmnaban Sanjeevikumar, Professor Aarhus University, Denmark</br>
-			Dr.M Rezwan Khan, Professor,United International University, Bangladesh</br>
-			Dr. S Rajasekar, Professor and Technical lea, wartsila energy, Singapore</br>
-			Dr. Hassan Haes Alhelou, Director, Smart Energy Systems Lab., Ireland</br>
-			Dr. Rudiren Pillay , Professor ,University of KwaZulu-Natal, South Africa</br>
-			Dr. Zahra Saadatizadeh, Professor, University of Arkansas, United States</br>
-			Dr.Rock Keey Liew, Professor, Environ Chem Let., Penang, Malaysia</br>
-			Dr. D N Vishwakarma, Professor, IIT(BHU),Varanasi, India</br>
-			Dr.Ramani Kannan, Professor, Universitiy Technology PETRONAS, Malaysia</br>
-			Dr. Wangda Zuo, Professor, University Park, Pennsylvania, United States</br>
-			Dr. Anupkumar Panda, Professor, NIT, Rourkela,India</br>
-			Dr. Özen ÖZER,Professor, Kırklareli University, Kırklareli, Turkey</br>
-			Dr. Ragu Sasikumar, Professor, South Chungcheong, South Korea</br>
-			Dr. Xiao-Zhi Gao, Professor, University of Eastern Finland, Finland</br>
-			Dr. Meshaal Alyahya, Professor, King Abdulaziz Science , Saudi Arabia</br>
-			Dr. Wei Qiao, Professor , University of NebraskaLincoln, Nebraska, USA</br>
-			Dr. Nicolaos Antonio Cutululis, Professor, Technical University, Denmark</br>
-			Dr. Fernando Ruiz Pérez, Professor , Instituto Politécnico Nacional, Mexico</br>
-			Dr. Gnanaseelan Natarajan,Professor, CICATA Altamira IPN, Mexico</br>
-			Dr. Mohan Lal Agarwal, Professor, Indo Gulf Management UAE</br>
-			Dr. Parthiban Pazhamalai,Professor, Jeju national University, South Korea</br>
-			Dr. Sergio Canazza, Professor at University of Padova , Padova</br>
-			Dr. Giacomo Oliveri, Professor, presso Università , Trento, Italy</br>
-			Dr.Rajvikram Madurai Elavarasan, Professor, Texas A& M University, USA</br>
-			Dr.G M Shafiullah, Professor, Murdoch University, Australia</br>
-			Dr.Jin-Woo Ahn, Professor of Shenyang University of Technology, China</br>
-			Dr. Chris Williams, Professor, School of Informatics University, Edinburgh</br>
-			Dr.R.Dhaya Kanthavel , Professor, King Khalid University, KSA</br>
-			Dr. Suresh Mikkili, Associate Professor NIT,Goa,India</br>
-			Dr. Shitharth S, Associate Professor, Kebri Dehar University, Ethiopia</br>
-			Dr. Naveen , Managing Director of Hero Electric Vehicles Pvt. Ltd,India</br>
-			Dr.S. Kumaravel, Professor, National Institute of Technology, Calicut</br>
-			Dr.Mahajan Sagar Bhaskar, Associate Editor of IET-PE, Saudi Arabia</br>
-			Dr.Kalpana Kannan, FPGA Design Engineer, North Brabant, Netherland</br>
-			Dr. Ankur Gupta,Professor ,IIT, DHANBAD, India</br>
-			Dr. Manish Kumar, Scientist at IFE Kjeller, Norway</br>
-			Dr. Fahd Alghasham, Professor, Qassim University , Saudi Arabia</br>
-			Dr. Chimanbhai A Patel,Professor Science, Lakeland, Florida, United States</br>
-			Dr.Rounak Sanghvi, Robotics Engineer IIM, Tiruchirappalli, India</br>
-			Dr.I Suresh, Professor NIT Warangal,India</br>
-			Dr.NP Selvam, Professor NIT ,Tiruchirappalli, India</br>
-			Dr.Deepak kumar, Professor MNNIT,Allahabad, India</br>
-			Dr.K Sivakumar, Professor IIT-Hyderbad,India</br>
-			Dr.N Manoj Kumar, Professor, University of Hong kong</br>
-			Dr. Arshad Md. Professor, Morgan & Stanley, USA</br>			
-			</p></br>
+			Akhtar Kalam, (Victoria University, Melbourne, Australia)</br>
+			Ankur Gupta (Indian Institute Technology, Dhanbad, India)</br>
+			Anupkumar Panda (National Institute of Technology, Rourkela, India)</br>
+			Arshad Md. (Morgan & Stanley, USA)</br>
+			Arunkumar P (Eindhoven University, Netherland)</br>
+			B Chitti Babu (IIITD & M Kancheepuram, India)</br>
+			Ch. Saibabu (JNT University Kakinada, India)</br>
+			Chris Williams (School of Informatics University, Edinburgh)</br>
+			D N Vishwakarma (Indian Institute Technology (BHU), Varanasi, India)</br>
+			Deepak Kumar (MNNIT, Allahabad, India)</br>
+			Fahd Alghasham (Qassim University , Saudi Arabia)</br>
+			Fernando Ruiz Pérez (Instituto Politécnico Nacional, Mexico)</br>
+			G M Shafiullah (Murdoch University, Australia)</br>
+			Giacomo Oliveri (Presso Università , Trento, Italy)</br>
+			Gnanaseelan Natarajan (CICATA Altamira IPN, Mexico)</br>
+			Hassan Haes Alhelou (Smart Energy Systems Lab., Ireland) </br>
+			I Suresh (National Institute of Technology, Warangal, India)</br>
+			Jin-Woo Ahn (Shenyang University of Technology, China)</br>
+			John McDonald (GE-Grid Solutions, India)</br>
+			K Sivakumar (Indian Institute Technology - Hyderabad, India)</br>
+			Kalpana Kannan (Imec, North Brabant, Netherland)</br>
+			Luis Ochoa (University of Melbourne, Australia)</br>
+			M Rezwan Khan (United International University, Bangladesh)</br>
+			Mahajan Sagar Bhaskar (Prince Sultan University, Saudi Arabia)</br>
+			Manish Kumar (IFE Kjeller, Norway)</br>
+			Meshaal Alyahya(King Abdulaziz City for Science and Technology, Saudi Arabia)</br>
+			Mohan Lal Agarwal (Indo Gulf Management, UAE)</br>
+			N Manoj Kumar (University of Hong kong, China)</br>
+			Naveen (Hero Electric Vehicles Pvt. Ltd, India)</br>
+			Nicolaos Antonio Cutululis (Technical University, Denmark)</br>
+			NP Selvam (National Institute of Technology, Trichy, India)</br>
+			Parthiban Pazhamalai (Jeju national University, South Korea)</br>
+			Po-tai Cheng (National Tsing Hua University, Taiwan)</br>
+			R. Dhaya Kanthavel (King Khalid University, KSA)</br>
+			Ragu Sasikumar (South Chungcheong, South Korea)</br>
+			Raguram (JNT University Hyderabad, India)</br>
+			Rajvikram Madurai Elavarasan (Texas A& M University, USA)</br>
+			Ramani Kannan (Professor, University Technology PETRONAS, Malaysia)</br>
+			Rock Keey Liew (Environ Chem Let., Penang, Malaysia)</br>
+			Ronghai Qu (Huazhong University, Wuhan, China)</br>
+			Rudiren Pillay (University of KwaZulu-Natal, South Africa)</br>
+			S N Singh (Madan Mohan Malviya University, India)</br>
+			S Rajasekar (Wartsila energy, Singapore)</br>
+			S Umasankar (Prince Sultan University, Riyadh, Saudi Arabia)</br>
+			S. Kumaravel (National Institute of Technology, Calicut, India)</br>
+			Sergio Canazza, (University of Padova , Padova)</br>
+			Shitharth S (Kebri Dehar University, Ethiopia)</br>
+			Suresh Mikkili (National Institute of Technology, Goa, India)</br>
+			Tobias Geyer (ABB Medium-Voltage Drives, Switzerland)</br>
+			Wang Lipo (Nanyang Technological University, Singapore)</br>
+			Wangda Zuo (University Park, Pennsylvania, USA)</br>
+			Wei Qiao (University of Nebraska Lincoln, Nebraska, USA)</br>
+			Xiao-Zhi Gao (University of Eastern Finland, Finland)</br>
+			Zahra Saadatizadeh (University of Arkansas, USA)</br>
+			Özen ÖZER (Kırklareli University, Kırklareli, Turkey)</br>
+			S. Rajalingam (Sunyani Technical University, Ghana)</br>
+			B. Sundaravadivazhagan (University of Technology and Applied Sciences, Oman)</br>
+
+			</p></br></br>
         </div>
       </div>
     </div>
@@ -296,19 +323,13 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Advisory Committee</h2>
+              <h2>Workshop Chair</h2>
             </div>
 			<p align="left">
-			Dr. Wang Lipo, Professor, Nanyang Technological University, Singapore</br>
-			Dr.S N Singh, Vice Chancellor, Madan Mohan Malviya University, India</br>
-			Dr. B Chitti Babu, Professor, IIITD & M Kancheepuram, India</br>
-			Dr. S Umasankar, Professor, Prince Sultan University, Riyadh, Saudi Arabia</br>
-			Dr. Ronghai Qu, Professor, Huazhong University, Wuhan, China</br>
-			Dr. Po-tai Cheng, Professor, National Tsing Hua University, Taiwan</br>
-			Dr.Tobias Geyer, Professor, ABB Medium-Voltage Drives, Switzerland</br>
-			Dr. Akhtar Kalam, Professor, Victoria University , Melbourne</br>
-			Dr. Arunkumar P, Design Engineer ASML, Eindhoven University Netherland</br>
-			Dr. Luis(Nando) Ochoa, Professor of Smart Grids , University of Melbourne</br>
+			Shawana Tabassum (University of Texas at Tyler)</br>
+			N. Karuppiah, (Vardhaman College of Engineering, India)</br>
+			Amirrudin Kamsin (University of Malaya, Malaysia)</br>
+			S. Ravivarman, (Vardhaman College of Engineering, India)</br>
 			</p></br></br>
         </div>
       </div>
@@ -320,10 +341,13 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Publicity Committee</h2>
+              <h2>Special Session Chair</h2>
             </div>
 			<p align="left">
-			</p>
+			Ana Maria Madureira (Institute of Engineering-Polytechnique of Porto, Portugal)</br>
+			Hilal Arsalan (Izmir Bakircay University, Turkey)</br>
+			K. Muruga Perumal, (Vardhaman College of Engineering, India)</br>
+			</p></br></br>
 		  </div>
 		</div>
 	</div>
@@ -336,7 +360,11 @@
               <h2>Organizing Committee</h2>
             </div>
 			<p align="left">
-			</p>
+			Loveleen Gaur (Amity University, India)</br>
+			B. Praveen Kumar, (Vardhaman College of Engineering, India)</br>
+			Patience Usoro Usip (University of Uyo , Nigeria )</br>
+			M. Affan Badar (Indiana State University, USA)</br>
+			</p></br></br>
 		  </div>
 		</div>
 	</div>

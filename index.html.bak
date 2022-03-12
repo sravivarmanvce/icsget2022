@@ -79,7 +79,7 @@
           </div>
         </div>
        </div>
-			<h4>24th & 25th August 2022</h4></br>
+			<h4>21st & 22nd October 2022</h4></br>
 			<h4>Vardhaman College of Engineering (India)</h4>
       </div>
     <!-- Banner Ends Here -->
@@ -89,7 +89,7 @@
           <div class="col-md-12">
 			<marquee width="100%" direction="left" height="100px">
 			<p style="color: #f00;">
-			ICSGET 2022 : Dates To Be Remember: : August 24th - 25th, 2022 | Full paper Submission : 30th May, 2022 | Camera Ready Paper, Copyright Submission and Registration:  20th July, 2022 |</p>
+			ICSGET 2022 : Dates To Remember: : October 21st - 22nd, 2022 | Full paper submission deadline: September 1, 2022 | Review Notification: October 1, 2022 |Registration, Camera ready paper & copyright submission: October 10, 2022 | </p>
 			</marquee>
 			  <div class="section-heading">
               <h2>ICSGET 2022</h2>
@@ -114,29 +114,29 @@
             <div class="inner-content">
               <div class="row">
                 <div class="col-md-12">
-                  <h3><em>Important Details</em></h3>
+                  <h3><em>Dates to remember</em></h3>
 				  <table>
 				  <tr>
 					<td>Full Paper submission deadline</td>
-					<td>30th May, 2022</td>
+					<td>September 1, 2022</td>
 				  </tr>
 				  <tr>
 					<td>Review notification</td>
-					<td>30th June, 2022</td>
+					<td>October 1, 2022</td>
 				  </tr>
 				  <tr>
 					<td>Registration, Camera ready, Copyright &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</td>
-					<td>20th July, 2022</td>
+					<td>October 10, 2022</td>
 				  </tr>
 				  <tr>
 					<td>Conference dates</td>
-					<td>24th - 25th August, 2022</td>
+					<td>21st and 22nd October 2022</td>
 				  </tr>
 				</table>
 				<table>
 				<tr>
-				 <td style="height:100px;width:430px">Paper Submission: Easy Chair link</td>
-				  <td style="height:100px;width:200px">Brochure link</td>
+				 <td style="height:100px;width:430px"><strong>Paper Submission:</strong> </td>
+				  <td style="height:100px;width:200px"><a href="https://easychair.org/conferences/?conf=icsget2022">Easy Chair Link</br> (https://easychair.org/conferences/?conf=icsget2022)<a> </td>
 				</tr>
 				</table
                 </div>
@@ -146,6 +146,23 @@
         </div>
       </div>
     </div>
+
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="inner-content">
+                <h3><em>Technical Sponsor</em></h3>
+				<img src="assets/images/iste.jpg" alt="" width="200" height="200">
+			</div>
+          </div>
+         </div>
+      </div>
+      
+
+
+
 
     
     <footer>
